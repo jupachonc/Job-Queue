@@ -1,4 +1,4 @@
-#JobQueue_in_Java
+# Job Queue in Java
 
 In this problem you will simulate a program that processes a list of jobs in parallel. Operating systems such
 
