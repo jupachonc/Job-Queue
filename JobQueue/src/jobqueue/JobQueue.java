@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author sebastian
+ * @author jupachonc
  */
 public class JobQueue {
 
